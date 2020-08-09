@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Sevgli huzursuzluğum
 
-You can use the [editor on GitHub](https://github.com/Sevim9/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Eğer sende okuduğun kitaplardan hariç hislerini anlatan ve anlayan paylaşımlar istiyorsan doğru adrestesin demektir. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kimi zaman her birimiz dayanılması güç sancılar çekmişizdir. Yanımızdakilerin ısrarları üzerine anlatınca "takma ya" cevabıyla karşılaşmışsınızdır. Biz istiyoruz ki size takma ya demek yerine seninleyim diyoruz. 
 
-### Markdown
+### **Öncelikle daha hızlı etkileşim için Twitter ve instagram sayfamıza davetlisiniz.** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_@svglıhzrszlgm_
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sevim9/github-pages-with-jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+En yakın zamanda görüşmek üzere... 
